@@ -4,5 +4,5 @@ In this repository it can be found all my projects of this class. I'm using Goog
 
 The projects are in english.
 
-## First Assignment - Neftlix Stock
+### First Assignment - Neftlix Stock
 Some analisys of Netflix Inc. in the last years.
