@@ -5,4 +5,4 @@ In this repository it can be found all my projects of this class. I'm using Goog
 The projects are in english.
 
 ### First Assignment - Neftlix Stock
-Some analisys of Netflix Inc. in the last years.
+Some analisys of Netflix Inc. in the last years. Colab link [here](https://colab.research.google.com/drive/1O8v465CKzRtkIdZdB1-5JcskfoFHBqga?usp=sharing).
