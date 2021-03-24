@@ -6,3 +6,6 @@ The projects are in english.
 
 ### First Assignment - Neftlix Stock
 Some analisys of Netflix Inc. in the last years. Colab link [here](https://colab.research.google.com/drive/1O8v465CKzRtkIdZdB1-5JcskfoFHBqga?usp=sharing).
+
+### Second Assignment - Temporal Series
+Applying three temporal series models - ARMA, GARCH and Markov Chain - to returns of Netflix Inc. in the last years. Colab link [here](https://colab.research.google.com/drive/1Vu9bzvSiarliCuEcr9Mjdku4BNUFfvnt?usp=sharing).
