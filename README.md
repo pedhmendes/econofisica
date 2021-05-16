@@ -13,5 +13,5 @@ Applying three temporal series models - ARMA, GARCH and Markov Chain - to return
 ### Third Assignment - Wallet 
 Build a wallet of different stocks and an analisys throught Markowitz theory. Colab link [here](https://colab.research.google.com/drive/1Gqw-QDKjWAwo8V2F8NyYfN0Fdebk_hn3?usp=sharing).
 
-###Fourth Assignment - Network
+### Fourth Assignment - Network
 Making a analisys of a Network using graph theory. Colab link [here](https://colab.research.google.com/drive/1k474OyA9wzBSNb_-Zuo9uiSELQtGUxC9?usp=sharing).
